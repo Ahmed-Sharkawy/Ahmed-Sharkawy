@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-**Ahmed-Sharkawy/Ahmed-Sharkawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br />
-<br />
+<!-- **Ahmed-Sharkawy/Ahmed-Sharkawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 <a href="https://twitter.com/devmohamedamr">
   <img align="left" alt="mohmed amr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
