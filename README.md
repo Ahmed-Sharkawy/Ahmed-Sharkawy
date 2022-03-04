@@ -1,7 +1,7 @@
-# <h1>Hi there 👋🏻 I'm Ahmed Al Sharkawy</h1>
+ <h1>Hi there 👋🏻 I'm Ahmed Al Sharkawy</h1>
 
 
-<!-- **Ahmed-Sharkawy/Ahmed-Sharkawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
+ **Ahmed-Sharkawy/Ahmed-Sharkawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 
 <br/>
