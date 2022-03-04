@@ -1,9 +1,6 @@
 <h1>Hi there 👋🏻 I'm Ahmed Al Sharkawy</h1>
 
 
-## Here are some ideas to get you started:
-
-
 - 🔭 I’m currently working on: Student.
 - 🌱 I’m currently learning: Back-end Developer (Laravel).
 - 🤔 I’m looking for help with: web development.
