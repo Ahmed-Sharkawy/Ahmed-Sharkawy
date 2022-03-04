@@ -5,7 +5,7 @@
 
 
 <br />
-##Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Student.
 - 🌱 I’m currently learning: Back-end Developer (Laravel).
