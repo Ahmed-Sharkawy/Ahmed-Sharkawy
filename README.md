@@ -2,18 +2,10 @@
 
 
 <!-- **Ahmed-Sharkawy/Ahmed-Sharkawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
-<a href="https://twitter.com/devmohamedamr">
-  <img align="left" alt="Ahmed-Sharkawy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ahmed-al-sharkawy-181a141b7/">
-  <img align="left" alt="Ahmed-Sharkawy LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100003190269716">
-  <img align="left" alt="Ahmed-Sharkawy Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+
+
 <br />
-<br />
-Here are some ideas to get you started:
+##Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Student.
 - 🌱 I’m currently learning: Back-end Developer (Laravel).
@@ -26,3 +18,20 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Sharkawy&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ahmed-Sharkawy/github-readme-stats)
 
+<a href="https://twitter.com/devmohamedamr">
+
+  <img align="left" alt="Ahmed-Sharkawy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-al-sharkawy-181a141b7/">
+
+  <img align="left" alt="Ahmed-Sharkawy LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100003190269716">
+
+  <img align="left" alt="Ahmed-Sharkawy Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+
+</a>
